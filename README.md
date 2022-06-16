@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **nurulyakin79@gmail.com**
 
-- 📄 Know about my experiences [RESUME](bit.ly/cv_islamnurulyakin)
+- 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1oMePKlSTpWMQcQzQt0Q6HkxYRyIgI211/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
