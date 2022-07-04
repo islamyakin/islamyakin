@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/aka_uuh" target="blank"><img src="https://img.shields.io/twitter/follow/aka_uuh?logo=twitter&style=for-the-badge" alt="aka_uuh" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps** **Cloudcomputing**
+- 🌱 I’m currently learning **DevOps** & **Cloudcomputing**
 
 - 📫 How to reach me **nurulyakin79@gmail.com**
 
