@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps** & **Cloudcomputing**
 
-- 📫 How to reach me **nurulyakin79@gmail.com**
+- 📫 How to reach me **nurulyakin79@outlook.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1oMePKlSTpWMQcQzQt0Q6HkxYRyIgI211/view?usp=drivesdk)
 
